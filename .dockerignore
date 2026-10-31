@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.git/
+.ipynb_checkpoints/
+IMAGES TO UNDERSTAND/
+*.ipynb
+drug200.csv
+Dockerfile
+docker-compose.yml
+.dockerignore
+.gitignore
